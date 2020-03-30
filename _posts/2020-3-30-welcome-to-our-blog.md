@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Welcome to our blog
+excerpt_separator: <!--more-->
 ---
 
-### Hello readers, hello project volunteers !!
+Greetings from the covid-at-home quarantined headquarters in Berlin, and we hope you are all holding up under these freakin' crazy circumstances. It's a fluid situation out there and things are moving quickly. They're also moving quickly here at covid-at-home.info 
 
-First of all: Greetings from the covid-at-home quarantined headquarters in Berlin, and we hope you are all holding up under what can be crazy circumstances. It's a fluid situation out there and things are moving quickly. They're also moving quickly here at covid-at-home.info 
+This is our new blog. We agree, the birth of our new blog would be a much more happy thing if this wasn't such a sad global situation. This is our way of providing news about the project to all volunteers and other friends of the project. Especially the translation crew has become impressively numerous over the past 10 days or so, so there's a need to tell you all what's going on.
 
-### Birth of our Newsblog
-
-This is the first post to our new blog. We agree, it would be a much more happy thing if this wasn't such a sad global situation. This blog is both our way of providing news about us to those interested as well as an internal means of talking to our volunteers. Especially the translation crew has become impressively numerous over the past 10 days or so. This blog is a way to share news about the project with all of us. 
+<!--more-->
 
 ### Site Much Improved
 
@@ -21,8 +20,7 @@ If you are already setup to translate in your language and your translation is l
 
 XXXX image here
 
-If you would like to translate this site in your own language, please contact us at <mailto:team@covid-at-home.info>team@covid-at-home.info</mailto>. A translation guide is in the works.
-
+If you would like to translate this site in your own language, please contact us at [team@covid-at-home.info](mailto:team@covid-at-home.info). A translation guide is in the works.
 
 ### Scope: Who are we? What are we doing here?
 

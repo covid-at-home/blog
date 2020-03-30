@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 Greetings from the covid-at-home quarantined headquarters in Berlin, and we hope you are all holding up under these freakin' crazy circumstances. It's a fluid situation out there and things are moving quickly. They're also moving quickly here at covid-at-home.info 
 
-This is our new blog. We agree, the birth of our new blog would be a much more happy thing if this wasn't such a sad global situation. This is our way of providing news about the project to all volunteers and other friends of the project. Especially the translation crew has become impressively numerous over the past 10 days or so, so there's a need to tell you all what's going on.
+This is our new blog. We agree, the birth of our new blog would be a much more happy thing if this wasn't such a sad global situation. The blog is our way of providing news about the project to all volunteers and other friends of the project. Especially the translation crew has become impressively numerous over the past 10 days or so, so there's a need to tell you all what's going on.
 
 ### Much More Better Doubleplus Improved
 
@@ -14,9 +14,9 @@ We have been busy the last few days, making the site much better by going over t
 
 ### Scope: Who are we? What are we doing here?
 
-The most visually obvious change to the website is the addition of white text-boxes with a dashed line around them. They do not merely represent visual renewal: they denote where we want the reader to seek up-to-date local information if available. After consulting with the wider groups of friends of the project (including some of you), we took a critical look at our website and decided that providing any kind of timely local information is a losing battle, because the situation is too fluid even to do that well for one country while also providing the kind of wannabe-complete general advice, let alone for all countries. And even if one did, in many places the situation on the ground doesn't even match the official advice from 24 hours ago. And for many languages, it would mean supporting many domains per language (Portugal/Brazil, the english speaking world, France / Francophone Africa, Spanish speakers everywhere, etc etc).
+The most visually obvious change to the website is the addition of white text-boxes with a dashed line around them. They do not merely represent visual renewal: they denote where we want the reader to seek up-to-date local information if available. After consulting with various friends of the project, we took a critical look at our website and decided that providing any kind of timely local information is a losing battle, because the situation is too fluid even to do that well for one country while also providing the kind of wannabe-complete general advice, let alone for all countries. And even if one did, in many places the situation on the ground doesn't even match the official advice from 24 hours ago. And for many languages, it would mean supporting many domains per language (Portugal/Brazil, the english speaking world, France / Francophone Africa, Spanish speakers everywhere, etc etc).
 
-Now we may collectively have the power to do quite a bit of work and provide useful tips, but we're not a freakin' transnational news-gathering and health-information NGO. So we instead we inserted placeholders to drive home the need for our readers to find up-to-date local information on a given topic in white boxes, and to do one thing well: honest and general advice that aims to be complete when it comes to sickness and care in the home environment. Here's the text of the first such box so you can see how we self-describe to the readers now:
+Now we may collectively have the power to do quite a bit of work and provide useful tips, but we're not a transnational news-gathering and health-information NGO. So we instead we inserted placeholders to drive home the need for our readers to find up-to-date local information on a given topic in white boxes. We're first going to do one thing well: honest and general advice that aims to be complete when it comes to sickness and care in the home environment. Here's the text of the first such box so you can see how we self-describe to the readers now:
 
 {{ site.breakout_begin }}
 
@@ -32,11 +32,11 @@ Also note that **we do not sugar-coat**. This site is written by and for adults 
 
 {{ site.breakout_end }}
 
-You can see for yourself to get a feel for how we are incorporating this on the rest of the site. 
+You can go and see for yourself to get a feel for how we are incorporating this on the rest of the site. 
 
 ### Translations
 
-If you are already set up to translate in your language and your translation is live, you are welcome to start translating the new text. But if you'd rather be sure you won't do unnecessary work, you could also wait a day or two for the site to be more stable. By Wednesday we will provide you with an overview of the english text that changed versus the text that didn't in a pretty graphical format, below is a preview of what that will look like. Click on the image to see larger version. (So only the green and dark blue text has actually changed...)
+If you are already set up to translate in your language and your translation is live, you are welcome to start translating the new text. But if you'd rather be sure you won't do unnecessary work, you could also wait a day or two for the site to be more stable. By Wednesday we will provide you with an overview of the english text that changed versus the text that didn't in a pretty graphical format, below is a preview of what that will look like. Click on the image to see larger version. As you may see, only the green and dark blue text has actually changed...
 
 [![](/images/diff-small.png)](/images/diff.png)
 

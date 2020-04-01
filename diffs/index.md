@@ -2,7 +2,7 @@
 title: Text differences
 ---
 
-This directory was automatically generated and contains all the files that have changed between a previously stored version that was archived at Sun Mar 29 09:36:35 CEST 2020 and the version at the time the script was ran: Wed Apr  1 17:10:01 CEST 2020.
+This directory was automatically generated and contains all the files that have changed between a previously stored version that was archived at Sun Mar 29 09:36:35 CEST 2020 and the version at the time the script was ran: Wed Apr  1 17:12:30 CEST 2020.
 
 * [diary.md](diary.md.html)
 * [help.md](help.md.html)
@@ -12,5 +12,4 @@ This directory was automatically generated and contains all the files that have 
 * [level3.md](level3.md.html)
 * [level4.md](level4.md.html)
 * [level5.md](level5.md.html)
-* [ppe.md](ppe.md.html)
 * [shopping.md](shopping.md.html)

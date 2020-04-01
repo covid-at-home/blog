@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- This file was created with the aha Ansi HTML Adapter. https://github.com/theZiz/aha -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8" />
+<title>stdin</title>
+<style type="text/css">
+pre {white-space: pre-wrap; white-space: -moz-pre-wrap !important;
+white-space: -pre-wrap; white-space: -o-pre-wrap; word-wrap: break-word;}
+</style>
+</head>
+<body>
+<pre>
+## Backstage - ([edit](https://github.com/covid-at-home/covid-at-home.github.io/edit/master/backstage.md))
+
+**Do not translate this page.** This is just a handy collection of links, for example to get to the different country sites, their github pages and their webstats. You can create a bookmark here so you can get everywhere quickly.
+
+### Our various sites
+
+Language |  |  |  
+--- | --- | --- | --- | --- | ---
+{% for language in site.data.languages.languages %}{{ language.title }} *({{ language.english }})* | [site]({{ language.url }}) | [GitHub]({{ language.github }}) | [stats]({{ language.stats }})
+{% endfor <span style="color:red;">%}**New site**</span><span style="color:green;">%}**blog**</span> | <span style="color:red;">[site](https://new.covid-at-home.info)</span><span style="color:green;">[site](https://blog.covid-at-home.info)</span> | <span style="color:red;">[GitHub](https://github.com/covid-at-home/new)</span><span style="color:green;">[GitHub](https://github.com/covid-at-home/blog/tree/master/_posts)</span> | <span style="color:green;">[stats](https://blog-covid-at-home.goatcounter.com/)</span>
+
+### Meeting
+
+* [Our video chat](https://meet.rawmushroom.com/covid)
+
+### Resources
+
+* CCC CERT - [Informationssammlung zum Thema CoVid-19](https://github.com/cwoomi/cert-covid19)
+
+### Random useful stuff
+
+* [Joker (Domain registry we use)](https://joker.com)
+* [DeepL](https://www.deepl.com/translator) and [Google Translate](https://translate.google.com/)
+</pre>
+</body>
+</html>

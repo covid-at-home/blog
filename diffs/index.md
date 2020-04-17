@@ -2,7 +2,7 @@
 title: Text differences
 ---
 
-This directory was automatically generated and contains all the files that have changed between a previously stored version that was archived at Sun Mar 29 09:36:35 CEST 2020 and the version at the time the script was ran: Thu Apr  9 11:39:46 CEST 2020.
+This directory was automatically generated and contains all the files that have changed between a previously stored version that was archived at Sun Mar 29 09:36:35 CEST 2020 and the version at the time the script was ran: Fri Apr 17 21:48:41 CEST 2020.
 
 * [about.md](about.md.html)
 * [diary.md](diary.md.html)
